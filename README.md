@@ -8,3 +8,6 @@ C1 = 0.1uF
 ![MEZ8085 PCB BOTTOM](https://github.com/satoshiokue/MEZ8085/blob/main/imgs/MEZ8085_bottom.jpg)
 
 https://github.com/satoshiokue/EMUZ80-8085
+
+MEZ8085専用プリント基板 - オレンジピコショップ 
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-060.html
